@@ -136,6 +136,7 @@ def main():
         val_dice.append(dice)
 
 
+
 if __name__ == "__main__":
     main()
 
